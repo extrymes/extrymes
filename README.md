@@ -2,7 +2,7 @@
 <h3>A passionate Software Engineer from Belgium 🇧🇪</h3>
 
 - 👨‍💻 I'm currently working from home
-- 🌱 I'm currently learning **C**, **Bash** and **Full-Stack Engineer** on [Codecademy](https://www.codecademy.com/learn)
+- 🌱 I'm currently learning **C** and **Bash**
 - 🚀 I'm currently applying to [42 Paris](https://42.fr/en/homepage/) 🇫🇷
 - 📓 All my projects are private for the moment
 
