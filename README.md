@@ -4,13 +4,12 @@
 - 👨‍💻 I'm currently working from home
 - 🌱 I'm currently learning **C** and **Bash**
 - 🚀 I'm currently applying to [42 Paris](https://42.fr/en/homepage/) 🇫🇷
-- 📓 All my projects are private for the moment
+- 📓 Most of my projects are private at the moment
 
 <h3>Connect with me:</h3>
 <p>
   <a href="#"><img src="https://img.shields.io/badge/extrymes-royalblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" /></a>
   <a href="https://twitter.com/extrymes"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge" /></a>
-  <a href="https://reddit.com/user/extrymes_"><img src="https://img.shields.io/badge/Reddit-orangered?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit badge"></a>
   <a href="https://codecademy.com/profiles/extrymes"><img src="https://img.shields.io/badge/Codecademy-linen?style=for-the-badge&logo=codecademy&logoColor=black" alt="Codecademy Badge" /></a>
 </p>
 
