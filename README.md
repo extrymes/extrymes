@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm <a href="https://github.com/extrymes">Simon</a>!</h1>
-<h3>A passionate Software Engineer from Belgium 🇧🇪</h3>
+<h3>I'm 18 years old and I come from Belgium 🇧🇪</h3>
 
 - 👨‍💻 I'm currently working on some projects
 - 🌱 I'm currently learning **C** & **Bash**
-- 🇫🇷 Member of [42 Paris](https://42.fr/en/homepage/)
+- 💙 Member of [42 Paris](https://42.fr/en/homepage/)
 - 📓 Most of my projects are private at the moment
 
 <h3>Connect with me:</h3>
