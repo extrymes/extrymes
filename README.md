@@ -1,7 +1,7 @@
 Hi 👋, I'm Simon!
 
 ### 👨‍💻 About Me
-- 👨‍🎓 I'm 18 years old and I come from Belgium 🇧🇪
+- 👨‍🎓 I'm 18 and I come from Belgium 🇧🇪
 - 📍 Currently living in France
 - 🎓 Student at [42 Paris](https://42.fr/en/homepage/) since May 2024
 - 💻 Passionate about software programming
