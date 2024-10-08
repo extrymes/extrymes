@@ -8,10 +8,15 @@ Hi 👋, I'm Simon!
 
 ### 🔧 Skills & Interests
 - ⚡️ 42 Common core
-- 🎯 Focus areas: AI, Security & Web Development
-- 👾 Programming languages: C, JavaScript, Python
+- 🎯 Focus areas: Web & Mobile Development
+- 👾 Programming languages: C, JavaScript
 - 🛠️ Tools & technologies: Zsh, Git, Node.js, MongoDB
-- 📓 Most of my projects are private at the moment, but I'm actively working on exciting stuff!
+
+### 💻 Operating systems
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge" /></a>
+</p>
 
 ### 🌐 Connect with Me
 <p>
