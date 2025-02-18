@@ -29,6 +29,5 @@ Hi 👋, I'm Simon!
 
 ### 🐈‍⬛ GitHub Stats
 <div>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=extrymes&show_icons=true&locale=en&theme=material-palenight&hide_border=true" alt="extrymes" /></a>
-  <a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=extrymes&locale=en&theme=material-palenight&hide_border=true" alt="extrymes" /></a>
+  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=extrymes&theme=react-dark" alt="extrymes" /></a>
 <div>
