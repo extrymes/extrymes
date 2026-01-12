@@ -2,7 +2,7 @@ Hi 👋, I'm Simon!
 
 ### 👨‍💻 About me
 
-- 👨‍🎓 19 years old, from Belgium 🇧🇪
+- 👨‍🎓 20 years old, from Belgium 🇧🇪
 - 📍 Based in France 🇫🇷
 - 🎓 Student at [42 Paris](https://42.fr/en/homepage/) since May 2024
 - ⚡️ Currently working as a freelancer
